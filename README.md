@@ -11,7 +11,7 @@ Webpack, TypeScript, React, Redux, RxJs, Next.js, Styled-components, CSS Modules
 Russian (native), English (B1).
 
 ## Experience
-#### АО "ТОЧКА" (6/2020 — to the current moment)
+### АО "ТОЧКА" (6/2020 — to the current moment)
 
 **Technologies:** TypeScript, React, Angular, Next.js, RxJs, Redux, Styled-components, Jest.
 
@@ -27,7 +27,7 @@ I am proud of my contributions as a front-end developer, working closely with my
 Overall, I'm proud of my contributions to developing and maintaining projects, as well as creating services that prioritize customers.
 
 
-#### Дом.ру (5/2019 — 5/2020)
+### Дом.ру (5/2019 — 5/2020)
 
 **Technologies:**  React, Next.js, Redux, Styled-components, Jest.
 
@@ -35,7 +35,7 @@ Overall, I'm proud of my contributions to developing and maintaining projects, a
 
 **Accomplishments:** I implemented auto testing and code style and made presentations at educational meetings of development teams.
 
-#### I-ONE (6/2017 — 5/2019)
+### I-ONE (6/2017 — 5/2019)
 
 **Technologies:**  HTML, PHP, WordPress, Javascript.
 
